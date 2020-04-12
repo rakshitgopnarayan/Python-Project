@@ -1,4 +1,10 @@
-#Python is a powerful multi-purpose programming language used by multiple giant companies.
+#
+EXTC SY(B.Tech)
+Pranav Bhatane 181090014,
+Rakshit Gopnarayan 181090022,
+Pratik Sawale 181090051
+
+Python is a powerful multi-purpose programming language used by multiple giant companies.
 It has simple and easy to use syntax making it perfect language for someone trying to learn computer programming for first time.
 It is a high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.
 
@@ -26,7 +32,3 @@ The most popular way to play hangman games offline is to draw blank letters for 
 For each incorrect guess, another part of the man is drawn.
 If the picture is complete before the word is revealed the hangman game is lost and the character is hanged, if the word is revealed before the execution the game is won.
 
-EXTC SY(B.Tech)
-Pranav Bhatane 181090014,
-Rakshit Gopnarayan 181090022,
-Pratik Sawale 181090051
