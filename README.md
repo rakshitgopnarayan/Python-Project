@@ -26,4 +26,3 @@ The most popular way to play hangman games offline is to draw blank letters for 
 For each incorrect guess, another part of the man is drawn.
 If the picture is complete before the word is revealed the hangman game is lost and the character is hanged, if the word is revealed before the execution the game is won.
 
-Attachments area
